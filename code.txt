@@ -5,3 +5,7 @@ print("wonder")
 a=5
 while a==5
 	print("odd")
+
+def add(a,b)
+	print(a+b)
+add(1,2)
